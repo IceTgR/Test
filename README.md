@@ -8,5 +8,3 @@ git pull # hol mir die aktuelle Version
 git clone (LINK VON GITHUB)
 
 cd = change directory
-
-Tschüssi
