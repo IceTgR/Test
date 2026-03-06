@@ -10,3 +10,5 @@ st.download_button(label="Little Git Cheatsheet ;)", data=readme_bytes, file_nam
 
 st.radio("Pick one", ["Liverpool", "Manchester"], disabled=True)
 
+st.camera_input("Take a picture")
+
