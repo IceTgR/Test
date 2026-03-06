@@ -1,5 +1,7 @@
 import streamlit as st #enable Streamlit
 
+st.header("Playground to try out :)")
+
 st.write("Hello World")
 
 with open("README.md") as f:
@@ -8,4 +10,3 @@ st.download_button(label="Little Git Cheatsheet ;)", data=readme_bytes, file_nam
 
 st.radio("Pick one", ["Liverpool", "Manchester"], disabled=True)
 
-st.map(df)
